@@ -1,0 +1,264 @@
+{
+  "pack_id": "56f60770d1",
+  "title": "Nuvens realistas ☁️| Mod: Simple clouds",
+  "source_url": "Vídeo hospedado neste site (1000211092.mp4)",
+  "platform": "upload",
+  "uploader": "Vídeo Adicionado no Site",
+  "description": "Vídeo adicionado diretamente (1000211092.mp4) para leitura multimodal por IA.",
+  "duration_sec": 47.3,
+  "duration_human": "00:47",
+  "created_at": 1792794401.3,
+  "processing_time_sec": 194.1,
+  "vision_source": "OCR Local (Tesseract) + Análise Visual Nativa",
+  "video_specs": {
+    "duration": 47.252608,
+    "width": 1080,
+    "height": 1920,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "sample_rate": 44100,
+    "channels": 2,
+    "fps": 60.0
+  },
+  "cover_image": "/packs/56f60770d1/scenes/scene_01.jpg",
+  "storyboard_url": "/packs/56f60770d1/storyboard.jpg",
+  "spectrogram_url": "/packs/56f60770d1/spectrogram.png",
+  "audio_url": "/packs/56f60770d1/audio.mp3",
+  "video_url": null,
+  "reader_url": "/r/56f60770d1",
+  "audio_telemetry": {
+    "available": true,
+    "format_preserved": "MP3 Alta Qualidade (~190 kbps VBR)",
+    "rms_db": -16.7,
+    "peak_db": -2.7,
+    "dynamic_range_db": 8.8,
+    "active_sound_pct": 100.0,
+    "voice_band_energy_pct": 71.8,
+    "high_freq_energy_pct": 7.8,
+    "profile_summary": "Áudio limpo com forte presença de voz humana nítida"
+  },
+  "transcript": {
+    "source": "Sem fala detectada / Apenas áudio instrumental ou ambiente",
+    "language": "—",
+    "segments": [],
+    "full_text": ""
+  },
+  "scenes": [
+    {
+      "index": 1,
+      "start_sec": 2.07,
+      "end_sec": 7.97,
+      "filename": "scene_01.jpg",
+      "visual": {
+        "width": 960,
+        "height": 1706,
+        "brightness_pct": 70.0,
+        "sharpness_score": 28,
+        "dominant_colors": [
+          "#e3eaf9",
+          "#b9d1fc",
+          "#768c8a"
+        ]
+      },
+      "time_range": "00:02 – 00:07",
+      "audio": {
+        "rms_db": -16.7,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Cena inicial (referência 0%)",
+      "ocr_text": "realistas",
+      "visual_description": "Quadro vertical (formato Shorts/TikTok) com iluminação equilibrada, imagem suave/fundo desfocado ou minimalista e predominância de tons branco/claro e roxo/lilás. Texto detectado na tela: \"realistas\".",
+      "image_url": "/packs/56f60770d1/scenes/scene_01.jpg"
+    },
+    {
+      "index": 2,
+      "start_sec": 7.97,
+      "end_sec": 13.88,
+      "filename": "scene_02.jpg",
+      "visual": {
+        "width": 960,
+        "height": 1706,
+        "brightness_pct": 79.7,
+        "sharpness_score": 11,
+        "dominant_colors": [
+          "#dde8f9",
+          "#c5d3e4",
+          "#99b5f2"
+        ]
+      },
+      "time_range": "00:07 – 00:13",
+      "audio": {
+        "rms_db": -16.6,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Variação visual de 19.4% • Deslocamento aparente: esquerda → direita / cima → baixo",
+      "ocr_text": "",
+      "visual_description": "Quadro vertical (formato Shorts/TikTok) com ambiente bastante claro/iluminado, imagem suave/fundo desfocado ou minimalista e predominância de tons roxo/lilás.",
+      "image_url": "/packs/56f60770d1/scenes/scene_02.jpg"
+    },
+    {
+      "index": 3,
+      "start_sec": 13.88,
+      "end_sec": 19.79,
+      "filename": "scene_03.jpg",
+      "visual": {
+        "width": 960,
+        "height": 1706,
+        "brightness_pct": 57.3,
+        "sharpness_score": 43,
+        "dominant_colors": [
+          "#d0dcf7",
+          "#a0a4b6",
+          "#5d6947"
+        ]
+      },
+      "time_range": "00:13 – 00:19",
+      "audio": {
+        "rms_db": -16.6,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Variação visual de 28.0% • Deslocamento aparente: direita → esquerda / baixo → cima",
+      "ocr_text": "",
+      "visual_description": "Quadro vertical (formato Shorts/TikTok) com iluminação equilibrada, foco moderado e predominância de tons roxo/lilás.",
+      "image_url": "/packs/56f60770d1/scenes/scene_03.jpg"
+    },
+    {
+      "index": 4,
+      "start_sec": 19.79,
+      "end_sec": 25.69,
+      "filename": "scene_04.jpg",
+      "visual": {
+        "width": 960,
+        "height": 1706,
+        "brightness_pct": 53.2,
+        "sharpness_score": 25,
+        "dominant_colors": [
+          "#96a5bf",
+          "#839cd0",
+          "#5b7472"
+        ]
+      },
+      "time_range": "00:19 – 00:25",
+      "audio": {
+        "rms_db": -16.5,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Variação visual de 14.8% • Deslocamento aparente: esquerda → direita / cima → baixo",
+      "ocr_text": "",
+      "visual_description": "Quadro vertical (formato Shorts/TikTok) com iluminação equilibrada, imagem suave/fundo desfocado ou minimalista e predominância de tons roxo/lilás.",
+      "image_url": "/packs/56f60770d1/scenes/scene_04.jpg"
+    },
+    {
+      "index": 5,
+      "start_sec": 25.69,
+      "end_sec": 31.6,
+      "filename": "scene_05.jpg",
+      "visual": {
+        "width": 960,
+        "height": 1706,
+        "brightness_pct": 31.4,
+        "sharpness_score": 50,
+        "dominant_colors": [
+          "#727a88",
+          "#4f5e5c",
+          "#34372f"
+        ]
+      },
+      "time_range": "00:25 – 00:31",
+      "audio": {
+        "rms_db": -17.0,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Variação visual de 23.7% • Deslocamento aparente: direita → esquerda / baixo → cima",
+      "ocr_text": "",
+      "visual_description": "Quadro vertical (formato Shorts/TikTok) com iluminação equilibrada, foco moderado e predominância de tons azul e cinza neutro.",
+      "image_url": "/packs/56f60770d1/scenes/scene_05.jpg"
+    },
+    {
+      "index": 6,
+      "start_sec": 31.6,
+      "end_sec": 37.51,
+      "filename": "scene_06.jpg",
+      "visual": {
+        "width": 960,
+        "height": 1706,
+        "brightness_pct": 20.9,
+        "sharpness_score": 47,
+        "dominant_colors": [
+          "#687351",
+          "#2e392b",
+          "#1a1921"
+        ]
+      },
+      "time_range": "00:31 – 00:37",
+      "audio": {
+        "rms_db": -16.9,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Variação visual de 19.6% • Deslocamento aparente: esquerda → direita / cima → baixo",
+      "ocr_text": "",
+      "visual_description": "Quadro vertical (formato Shorts/TikTok) com iluminação equilibrada, foco moderado e predominância de tons verde e cinza neutro.",
+      "image_url": "/packs/56f60770d1/scenes/scene_06.jpg"
+    },
+    {
+      "index": 7,
+      "start_sec": 37.51,
+      "end_sec": 43.41,
+      "filename": "scene_07.jpg",
+      "visual": {
+        "width": 960,
+        "height": 1706,
+        "brightness_pct": 17.9,
+        "sharpness_score": 41,
+        "dominant_colors": [
+          "#465e81",
+          "#282f45",
+          "#16131c"
+        ]
+      },
+      "time_range": "00:37 – 00:43",
+      "audio": {
+        "rms_db": -17.1,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Variação visual de 6.5% • Deslocamento aparente: direita → esquerda",
+      "ocr_text": "",
+      "visual_description": "Quadro vertical (formato Shorts/TikTok) com ambiente escuro/noturno, foco moderado e predominância de tons azul.",
+      "image_url": "/packs/56f60770d1/scenes/scene_07.jpg"
+    },
+    {
+      "index": 8,
+      "start_sec": 43.41,
+      "end_sec": 47.25,
+      "filename": "scene_08.jpg",
+      "visual": {
+        "width": 960,
+        "height": 1706,
+        "brightness_pct": 19.4,
+        "sharpness_score": 35,
+        "dominant_colors": [
+          "#40483c",
+          "#28272e",
+          "#231f29"
+        ]
+      },
+      "time_range": "00:43 – 00:47",
+      "audio": {
+        "rms_db": -16.6,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Variação visual de 8.2% • Deslocamento aparente: esquerda → direita / cima → baixo",
+      "ocr_text": "",
+      "visual_description": "Quadro vertical (formato Shorts/TikTok) com iluminação equilibrada, foco moderado e predominância de tons cinza neutro.",
+      "image_url": "/packs/56f60770d1/scenes/scene_08.jpg"
+    }
+  ]
+}
