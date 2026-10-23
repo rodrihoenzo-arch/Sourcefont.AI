@@ -1,0 +1,372 @@
+{
+  "pack_id": "2d0518b95a",
+  "title": "minecraft clouds have never looked this good before",
+  "source_url": "Vídeo hospedado neste site (1000211096.mp4)",
+  "platform": "upload",
+  "uploader": "Vídeo Adicionado no Site",
+  "description": "Vídeo adicionado diretamente (1000211096.mp4) para leitura multimodal por IA.",
+  "duration_sec": 187.9,
+  "duration_human": "03:07",
+  "created_at": 1792795463.31,
+  "processing_time_sec": 88.22,
+  "vision_source": "OCR Local (Tesseract) + Análise Visual Nativa",
+  "video_specs": {
+    "duration": 187.933333,
+    "width": 1280,
+    "height": 720,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "sample_rate": 44100,
+    "channels": 2,
+    "fps": 30.0
+  },
+  "cover_image": "/packs/2d0518b95a/scenes/scene_01.jpg",
+  "storyboard_url": "/packs/2d0518b95a/storyboard.jpg",
+  "spectrogram_url": "/packs/2d0518b95a/spectrogram.png",
+  "audio_url": "/packs/2d0518b95a/audio.mp3",
+  "video_url": null,
+  "reader_url": "/r/2d0518b95a",
+  "audio_telemetry": {
+    "available": true,
+    "format_preserved": "MP3 Alta Qualidade (~190 kbps VBR)",
+    "rms_db": -17.0,
+    "peak_db": -0.1,
+    "dynamic_range_db": 16.4,
+    "active_sound_pct": 99.5,
+    "voice_band_energy_pct": 73.6,
+    "high_freq_energy_pct": 5.7,
+    "profile_summary": "Áudio limpo com forte presença de voz humana nítida"
+  },
+  "transcript": {
+    "source": "Sem fala detectada / Apenas áudio instrumental ou ambiente",
+    "language": "—",
+    "segments": [],
+    "full_text": ""
+  },
+  "scenes": [
+    {
+      "index": 1,
+      "start_sec": 0.0,
+      "end_sec": 9.0,
+      "filename": "scene_01.jpg",
+      "visual": {
+        "width": 720,
+        "height": 406,
+        "brightness_pct": 31.8,
+        "sharpness_score": 66,
+        "dominant_colors": [
+          "#647761",
+          "#4e644d",
+          "#3b3e31"
+        ]
+      },
+      "time_range": "00:00 – 00:09",
+      "audio": {
+        "rms_db": -16.2,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Cena inicial (referência 0%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, alta riqueza de detalhes/bordas nítidas e predominância de tons verde.",
+      "image_url": "/packs/2d0518b95a/scenes/scene_01.jpg"
+    },
+    {
+      "index": 2,
+      "start_sec": 9.0,
+      "end_sec": 24.0,
+      "filename": "scene_02.jpg",
+      "visual": {
+        "width": 720,
+        "height": 406,
+        "brightness_pct": 46.7,
+        "sharpness_score": 72,
+        "dominant_colors": [
+          "#b7c3eb",
+          "#83879b",
+          "#45493d"
+        ]
+      },
+      "time_range": "00:09 – 00:24",
+      "audio": {
+        "rms_db": -16.2,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Evolução gradual no local (variação 20.4%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, alta riqueza de detalhes/bordas nítidas e predominância de tons roxo/lilás.",
+      "image_url": "/packs/2d0518b95a/scenes/scene_02.jpg"
+    },
+    {
+      "index": 3,
+      "start_sec": 24.0,
+      "end_sec": 36.0,
+      "filename": "scene_03.jpg",
+      "visual": {
+        "width": 720,
+        "height": 406,
+        "brightness_pct": 56.2,
+        "sharpness_score": 81,
+        "dominant_colors": [
+          "#dfe2f7",
+          "#94a6e5",
+          "#535a5b"
+        ]
+      },
+      "time_range": "00:24 – 00:36",
+      "audio": {
+        "rms_db": -16.5,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Variação visual de 18.1% • Deslocamento aparente: esquerda → direita / cima → baixo",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, alta riqueza de detalhes/bordas nítidas e predominância de tons roxo/lilás.",
+      "image_url": "/packs/2d0518b95a/scenes/scene_03.jpg"
+    },
+    {
+      "index": 4,
+      "start_sec": 36.0,
+      "end_sec": 48.0,
+      "filename": "scene_04.jpg",
+      "visual": {
+        "width": 720,
+        "height": 406,
+        "brightness_pct": 31.4,
+        "sharpness_score": 30,
+        "dominant_colors": [
+          "#757379",
+          "#575468",
+          "#34393a"
+        ]
+      },
+      "time_range": "00:36 – 00:48",
+      "audio": {
+        "rms_db": -17.2,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Corte de cena / grande transição visual (30.1%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, imagem suave/fundo desfocado ou minimalista e predominância de tons cinza neutro.",
+      "image_url": "/packs/2d0518b95a/scenes/scene_04.jpg"
+    },
+    {
+      "index": 5,
+      "start_sec": 48.0,
+      "end_sec": 60.0,
+      "filename": "scene_05.jpg",
+      "visual": {
+        "width": 720,
+        "height": 406,
+        "brightness_pct": 53.0,
+        "sharpness_score": 55,
+        "dominant_colors": [
+          "#dadbf0",
+          "#8aa1dd",
+          "#4c5050"
+        ]
+      },
+      "time_range": "00:48 – 01:00",
+      "audio": {
+        "rms_db": -16.5,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Corte de cena / grande transição visual (31.1%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, foco moderado e predominância de tons roxo/lilás.",
+      "image_url": "/packs/2d0518b95a/scenes/scene_05.jpg"
+    },
+    {
+      "index": 6,
+      "start_sec": 60.0,
+      "end_sec": 87.0,
+      "filename": "scene_06.jpg",
+      "visual": {
+        "width": 720,
+        "height": 406,
+        "brightness_pct": 25.5,
+        "sharpness_score": 53,
+        "dominant_colors": [
+          "#656a76",
+          "#4c515f",
+          "#1f251f"
+        ]
+      },
+      "time_range": "01:00 – 01:27",
+      "audio": {
+        "rms_db": -18.5,
+        "energy_label": "Volume moderado"
+      },
+      "spoken_text": "",
+      "motion_summary": "Corte de cena / grande transição visual (29.5%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, foco moderado e predominância de tons cinza neutro.",
+      "image_url": "/packs/2d0518b95a/scenes/scene_06.jpg"
+    },
+    {
+      "index": 7,
+      "start_sec": 87.0,
+      "end_sec": 108.0,
+      "filename": "scene_07.jpg",
+      "visual": {
+        "width": 720,
+        "height": 406,
+        "brightness_pct": 56.5,
+        "sharpness_score": 99,
+        "dominant_colors": [
+          "#fcfcfe",
+          "#b0b2b9",
+          "#3b413c"
+        ]
+      },
+      "time_range": "01:27 – 01:48",
+      "audio": {
+        "rms_db": -18.1,
+        "energy_label": "Volume moderado"
+      },
+      "spoken_text": "",
+      "motion_summary": "Corte de cena / grande transição visual (37.1%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, alta riqueza de detalhes/bordas nítidas e predominância de tons branco/claro e cinza neutro.",
+      "image_url": "/packs/2d0518b95a/scenes/scene_07.jpg"
+    },
+    {
+      "index": 8,
+      "start_sec": 108.0,
+      "end_sec": 123.0,
+      "filename": "scene_08.jpg",
+      "visual": {
+        "width": 720,
+        "height": 406,
+        "brightness_pct": 22.3,
+        "sharpness_score": 71,
+        "dominant_colors": [
+          "#6d8861",
+          "#283c20",
+          "#181b13"
+        ]
+      },
+      "time_range": "01:48 – 02:03",
+      "audio": {
+        "rms_db": -17.5,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Corte de cena / grande transição visual (40.2%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, alta riqueza de detalhes/bordas nítidas e predominância de tons verde.",
+      "image_url": "/packs/2d0518b95a/scenes/scene_08.jpg"
+    },
+    {
+      "index": 9,
+      "start_sec": 123.0,
+      "end_sec": 144.0,
+      "filename": "scene_09.jpg",
+      "visual": {
+        "width": 720,
+        "height": 406,
+        "brightness_pct": 59.6,
+        "sharpness_score": 74,
+        "dominant_colors": [
+          "#c6ebf3",
+          "#8db3b3",
+          "#606f6f"
+        ]
+      },
+      "time_range": "02:03 – 02:24",
+      "audio": {
+        "rms_db": -16.2,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Corte de cena / grande transição visual (40.0%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, alta riqueza de detalhes/bordas nítidas e predominância de tons roxo/lilás e verde-água/ciano.",
+      "image_url": "/packs/2d0518b95a/scenes/scene_09.jpg"
+    },
+    {
+      "index": 10,
+      "start_sec": 144.0,
+      "end_sec": 159.0,
+      "filename": "scene_10.jpg",
+      "visual": {
+        "width": 720,
+        "height": 406,
+        "brightness_pct": 31.9,
+        "sharpness_score": 55,
+        "dominant_colors": [
+          "#6e8483",
+          "#55615a",
+          "#2e3832"
+        ]
+      },
+      "time_range": "02:24 – 02:39",
+      "audio": {
+        "rms_db": -16.9,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Corte de cena / grande transição visual (28.5%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, foco moderado e predominância de tons verde-água/ciano e cinza neutro.",
+      "image_url": "/packs/2d0518b95a/scenes/scene_10.jpg"
+    },
+    {
+      "index": 11,
+      "start_sec": 159.0,
+      "end_sec": 186.0,
+      "filename": "scene_11.jpg",
+      "visual": {
+        "width": 720,
+        "height": 406,
+        "brightness_pct": 46.3,
+        "sharpness_score": 100,
+        "dominant_colors": [
+          "#bed9b5",
+          "#829c5c",
+          "#354828"
+        ]
+      },
+      "time_range": "02:39 – 03:06",
+      "audio": {
+        "rms_db": -16.8,
+        "energy_label": "Som forte / fala ativa"
+      },
+      "spoken_text": "",
+      "motion_summary": "Variação visual de 23.4% • Deslocamento aparente: direita → esquerda / cima → baixo",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, alta riqueza de detalhes/bordas nítidas e predominância de tons verde-água/ciano e verde.",
+      "image_url": "/packs/2d0518b95a/scenes/scene_11.jpg"
+    },
+    {
+      "index": 12,
+      "start_sec": 186.0,
+      "end_sec": 187.93,
+      "filename": "scene_12.jpg",
+      "visual": {
+        "width": 720,
+        "height": 406,
+        "brightness_pct": 0.1,
+        "sharpness_score": 1,
+        "dominant_colors": [
+          "#636363",
+          "#050505",
+          "#000000"
+        ]
+      },
+      "time_range": "03:06 – 03:07",
+      "audio": {
+        "rms_db": -17.0,
+        "energy_label": "Trecho curto"
+      },
+      "spoken_text": "",
+      "motion_summary": "Corte de cena / grande transição visual (46.3%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com ambiente escuro/noturno, imagem suave/fundo desfocado ou minimalista e predominância de tons cinza neutro e preto/escuro.",
+      "image_url": "/packs/2d0518b95a/scenes/scene_12.jpg"
+    }
+  ]
+}
