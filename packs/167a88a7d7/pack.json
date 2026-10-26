@@ -1,0 +1,145 @@
+{
+  "pack_id": "167a88a7d7",
+  "title": "How to make your Minecraft look like Bdoubleo's Game",
+  "source_url": "https://www.youtube.com/watch?v=hQwoD6NZ-lo",
+  "platform": "youtube",
+  "uploader": "loorikeet",
+  "description": "Extraído via Modo Instantâneo Anti-Bloqueio (Quadros Oficiais + OCR + Visão + Transcrição).",
+  "duration_sec": 120.0,
+  "duration_human": "02:00",
+  "created_at": 1793051621.87,
+  "processing_time_sec": 21.78,
+  "vision_source": "OCR Local (Tesseract) + Análise Visual Nativa",
+  "video_specs": {
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
+    "video_codec": "yt-frames",
+    "audio_codec": "transcript"
+  },
+  "cover_image": "/packs/167a88a7d7/scenes/scene_01.jpg",
+  "storyboard_url": "/packs/167a88a7d7/storyboard.jpg",
+  "spectrogram_url": null,
+  "audio_url": null,
+  "reader_url": "/r/167a88a7d7",
+  "audio_telemetry": {
+    "available": false,
+    "profile_summary": "Modo Anti-Bloqueio Nuvem: Fala completa preservada via legenda oficial"
+  },
+  "transcript": {
+    "source": "Sem fala detectada / Apenas áudio instrumental ou ambiente",
+    "language": "—",
+    "segments": [],
+    "full_text": ""
+  },
+  "scenes": [
+    {
+      "index": 1,
+      "start_sec": 0.0,
+      "end_sec": 30.0,
+      "time_range": "00:00 – 00:30",
+      "filename": "scene_01.jpg",
+      "image_url": "/packs/167a88a7d7/scenes/scene_01.jpg",
+      "visual": {
+        "width": 1280,
+        "height": 720,
+        "brightness_pct": 52.7,
+        "sharpness_score": 100,
+        "dominant_colors": [
+          "#dadede",
+          "#90a9da",
+          "#4d4a44"
+        ]
+      },
+      "audio": {
+        "rms_db": "—",
+        "energy_label": "Extraído via Modo Rápido Nuvem"
+      },
+      "spoken_text": "",
+      "motion_summary": "Cena inicial (referência 0%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, alta riqueza de detalhes/bordas nítidas e predominância de tons cinza neutro e roxo/lilás."
+    },
+    {
+      "index": 2,
+      "start_sec": 30.0,
+      "end_sec": 60.0,
+      "time_range": "00:30 – 01:00",
+      "filename": "scene_02.jpg",
+      "image_url": "/packs/167a88a7d7/scenes/scene_02.jpg",
+      "visual": {
+        "width": 480,
+        "height": 360,
+        "brightness_pct": 45.0,
+        "sharpness_score": 26,
+        "dominant_colors": [
+          "#94b8f7",
+          "#7da7fb",
+          "#2a2f2b"
+        ]
+      },
+      "audio": {
+        "rms_db": "—",
+        "energy_label": "Extraído via Modo Rápido Nuvem"
+      },
+      "spoken_text": "",
+      "motion_summary": "Corte de cena / grande transição visual (30.4%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, imagem suave/fundo desfocado ou minimalista e predominância de tons roxo/lilás."
+    },
+    {
+      "index": 3,
+      "start_sec": 60.0,
+      "end_sec": 90.0,
+      "time_range": "01:00 – 01:30",
+      "filename": "scene_03.jpg",
+      "image_url": "/packs/167a88a7d7/scenes/scene_03.jpg",
+      "visual": {
+        "width": 480,
+        "height": 360,
+        "brightness_pct": 32.1,
+        "sharpness_score": 50,
+        "dominant_colors": [
+          "#93a3bd",
+          "#74655a",
+          "#221d19"
+        ]
+      },
+      "audio": {
+        "rms_db": "—",
+        "energy_label": "Extraído via Modo Rápido Nuvem"
+      },
+      "spoken_text": "",
+      "motion_summary": "Variação visual de 17.0% • Deslocamento aparente: esquerda → direita",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, foco moderado e predominância de tons roxo/lilás e laranja/quente."
+    },
+    {
+      "index": 4,
+      "start_sec": 90.0,
+      "end_sec": 120.0,
+      "time_range": "01:30 – 02:00",
+      "filename": "scene_04.jpg",
+      "image_url": "/packs/167a88a7d7/scenes/scene_04.jpg",
+      "visual": {
+        "width": 480,
+        "height": 360,
+        "brightness_pct": 48.1,
+        "sharpness_score": 33,
+        "dominant_colors": [
+          "#bed3f6",
+          "#91aef2",
+          "#303835"
+        ]
+      },
+      "audio": {
+        "rms_db": "—",
+        "energy_label": "Extraído via Modo Rápido Nuvem"
+      },
+      "spoken_text": "",
+      "motion_summary": "Variação visual de 19.8% • Deslocamento aparente: esquerda → direita",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, foco moderado e predominância de tons roxo/lilás."
+    }
+  ]
+}
