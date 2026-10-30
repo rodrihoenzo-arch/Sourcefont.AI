@@ -7,8 +7,8 @@
   "description": "Extraído via Modo Instantâneo Anti-Bloqueio (Quadros Oficiais + OCR + Visão + Transcrição).",
   "duration_sec": 120.0,
   "duration_human": "02:00",
-  "created_at": 1793328135.65,
-  "processing_time_sec": 23.56,
+  "created_at": 1793328156.16,
+  "processing_time_sec": 23.71,
   "vision_source": "OCR Local (Tesseract) + Análise Visual Nativa",
   "video_specs": {
     "width": 1280,
