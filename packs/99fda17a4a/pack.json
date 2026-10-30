@@ -1,0 +1,145 @@
+{
+  "pack_id": "99fda17a4a",
+  "title": "Time-Lapse: 2 Strong Updrafts Fully Turn into Cumulonimbus Clouds",
+  "source_url": "https://www.youtube.com/watch?v=I2Cm_nmgB1g",
+  "platform": "youtube",
+  "uploader": "Brayton Ewell",
+  "description": "Extraído via Modo Instantâneo Anti-Bloqueio (Quadros Oficiais + OCR + Visão + Transcrição).",
+  "duration_sec": 120.0,
+  "duration_human": "02:00",
+  "created_at": 1793328219.66,
+  "processing_time_sec": 19.52,
+  "vision_source": "OCR Local (Tesseract) + Análise Visual Nativa",
+  "video_specs": {
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
+    "video_codec": "yt-frames",
+    "audio_codec": "transcript"
+  },
+  "cover_image": "/packs/99fda17a4a/scenes/scene_01.jpg",
+  "storyboard_url": "/packs/99fda17a4a/storyboard.jpg",
+  "spectrogram_url": null,
+  "audio_url": null,
+  "reader_url": "/r/99fda17a4a",
+  "audio_telemetry": {
+    "available": false,
+    "profile_summary": "Modo Anti-Bloqueio Nuvem: Fala completa preservada via legenda oficial"
+  },
+  "transcript": {
+    "source": "Sem fala detectada / Apenas áudio instrumental ou ambiente",
+    "language": "—",
+    "segments": [],
+    "full_text": ""
+  },
+  "scenes": [
+    {
+      "index": 1,
+      "start_sec": 0.0,
+      "end_sec": 30.0,
+      "time_range": "00:00 – 00:30",
+      "filename": "scene_01.jpg",
+      "image_url": "/packs/99fda17a4a/scenes/scene_01.jpg",
+      "visual": {
+        "width": 1280,
+        "height": 720,
+        "brightness_pct": 49.0,
+        "sharpness_score": 31,
+        "dominant_colors": [
+          "#b9b4a9",
+          "#858785",
+          "#545c61"
+        ]
+      },
+      "audio": {
+        "rms_db": "—",
+        "energy_label": "Extraído via Modo Rápido Nuvem"
+      },
+      "spoken_text": "",
+      "motion_summary": "Cena inicial (referência 0%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, foco moderado e predominância de tons cinza neutro."
+    },
+    {
+      "index": 2,
+      "start_sec": 30.0,
+      "end_sec": 60.0,
+      "time_range": "00:30 – 01:00",
+      "filename": "scene_02.jpg",
+      "image_url": "/packs/99fda17a4a/scenes/scene_02.jpg",
+      "visual": {
+        "width": 480,
+        "height": 360,
+        "brightness_pct": 38.7,
+        "sharpness_score": 31,
+        "dominant_colors": [
+          "#b9b4aa",
+          "#787c7e",
+          "#282d30"
+        ]
+      },
+      "audio": {
+        "rms_db": "—",
+        "energy_label": "Extraído via Modo Rápido Nuvem"
+      },
+      "spoken_text": "",
+      "motion_summary": "Variação visual de 16.9% • Deslocamento aparente: direita → esquerda",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, foco moderado e predominância de tons cinza neutro."
+    },
+    {
+      "index": 3,
+      "start_sec": 60.0,
+      "end_sec": 90.0,
+      "time_range": "01:00 – 01:30",
+      "filename": "scene_03.jpg",
+      "image_url": "/packs/99fda17a4a/scenes/scene_03.jpg",
+      "visual": {
+        "width": 480,
+        "height": 360,
+        "brightness_pct": 36.8,
+        "sharpness_score": 28,
+        "dominant_colors": [
+          "#b0ada4",
+          "#747879",
+          "#25292c"
+        ]
+      },
+      "audio": {
+        "rms_db": "—",
+        "energy_label": "Extraído via Modo Rápido Nuvem"
+      },
+      "spoken_text": "",
+      "motion_summary": "Evolução gradual no local (variação 6.8%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, imagem suave/fundo desfocado ou minimalista e predominância de tons cinza neutro."
+    },
+    {
+      "index": 4,
+      "start_sec": 90.0,
+      "end_sec": 120.0,
+      "time_range": "01:30 – 02:00",
+      "filename": "scene_04.jpg",
+      "image_url": "/packs/99fda17a4a/scenes/scene_04.jpg",
+      "visual": {
+        "width": 480,
+        "height": 360,
+        "brightness_pct": 37.2,
+        "sharpness_score": 26,
+        "dominant_colors": [
+          "#b1afa6",
+          "#778087",
+          "#262727"
+        ]
+      },
+      "audio": {
+        "rms_db": "—",
+        "energy_label": "Extraído via Modo Rápido Nuvem"
+      },
+      "spoken_text": "",
+      "motion_summary": "Evolução gradual no local (variação 5.7%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, imagem suave/fundo desfocado ou minimalista e predominância de tons cinza neutro."
+    }
+  ]
+}
