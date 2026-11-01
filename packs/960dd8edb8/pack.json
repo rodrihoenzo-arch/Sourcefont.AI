@@ -1,0 +1,145 @@
+{
+  "pack_id": "960dd8edb8",
+  "title": "2-Minute Neuroscience: Synaptic Transmission",
+  "source_url": "https://www.youtube.com/watch?v=WhowH0kb7n0",
+  "platform": "youtube",
+  "uploader": "Neuroscientifically Challenged",
+  "description": "Extraído via Modo Instantâneo Anti-Bloqueio (Quadros Oficiais + OCR + Visão + Transcrição).",
+  "duration_sec": 120.0,
+  "duration_human": "02:00",
+  "created_at": 1793559739.55,
+  "processing_time_sec": 13.11,
+  "vision_source": "OCR Local (Tesseract) + Análise Visual Nativa",
+  "video_specs": {
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
+    "video_codec": "yt-frames",
+    "audio_codec": "transcript"
+  },
+  "cover_image": "/packs/960dd8edb8/scenes/scene_01.jpg",
+  "storyboard_url": "/packs/960dd8edb8/storyboard.jpg",
+  "spectrogram_url": null,
+  "audio_url": null,
+  "reader_url": "/r/960dd8edb8",
+  "audio_telemetry": {
+    "available": false,
+    "profile_summary": "Modo Anti-Bloqueio Nuvem: Fala completa preservada via legenda oficial"
+  },
+  "transcript": {
+    "source": "Sem fala detectada / Apenas áudio instrumental ou ambiente",
+    "language": "—",
+    "segments": [],
+    "full_text": ""
+  },
+  "scenes": [
+    {
+      "index": 1,
+      "start_sec": 0.0,
+      "end_sec": 30.0,
+      "time_range": "00:00 – 00:30",
+      "filename": "scene_01.jpg",
+      "image_url": "/packs/960dd8edb8/scenes/scene_01.jpg",
+      "visual": {
+        "width": 1280,
+        "height": 720,
+        "brightness_pct": 65.7,
+        "sharpness_score": 100,
+        "dominant_colors": [
+          "#ffffff",
+          "#d7f6a2",
+          "#595776"
+        ]
+      },
+      "audio": {
+        "rms_db": "—",
+        "energy_label": "Extraído via Modo Rápido Nuvem"
+      },
+      "spoken_text": "",
+      "motion_summary": "Cena inicial (referência 0%)",
+      "ocr_text": "ESICLES SYNAPTIC TRANSMISSION",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, alta riqueza de detalhes/bordas nítidas e predominância de tons branco/claro e verde-água/ciano. Texto detectado na tela: \"ESICLES SYNAPTIC TRANSMISSION\"."
+    },
+    {
+      "index": 2,
+      "start_sec": 30.0,
+      "end_sec": 60.0,
+      "time_range": "00:30 – 01:00",
+      "filename": "scene_02.jpg",
+      "image_url": "/packs/960dd8edb8/scenes/scene_02.jpg",
+      "visual": {
+        "width": 480,
+        "height": 360,
+        "brightness_pct": 60.1,
+        "sharpness_score": 29,
+        "dominant_colors": [
+          "#ececec",
+          "#e9edea",
+          "#4c3c4d"
+        ]
+      },
+      "audio": {
+        "rms_db": "—",
+        "energy_label": "Extraído via Modo Rápido Nuvem"
+      },
+      "spoken_text": "",
+      "motion_summary": "Corte de cena / grande transição visual (38.7%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, imagem suave/fundo desfocado ou minimalista e predominância de tons branco/claro."
+    },
+    {
+      "index": 3,
+      "start_sec": 60.0,
+      "end_sec": 90.0,
+      "time_range": "01:00 – 01:30",
+      "filename": "scene_03.jpg",
+      "image_url": "/packs/960dd8edb8/scenes/scene_03.jpg",
+      "visual": {
+        "width": 480,
+        "height": 360,
+        "brightness_pct": 56.4,
+        "sharpness_score": 32,
+        "dominant_colors": [
+          "#ececec",
+          "#dbdedc",
+          "#422e3b"
+        ]
+      },
+      "audio": {
+        "rms_db": "—",
+        "energy_label": "Extraído via Modo Rápido Nuvem"
+      },
+      "spoken_text": "",
+      "motion_summary": "Evolução gradual no local (variação 3.8%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, foco moderado e predominância de tons branco/claro e cinza neutro."
+    },
+    {
+      "index": 4,
+      "start_sec": 90.0,
+      "end_sec": 120.0,
+      "time_range": "01:30 – 02:00",
+      "filename": "scene_04.jpg",
+      "image_url": "/packs/960dd8edb8/scenes/scene_04.jpg",
+      "visual": {
+        "width": 480,
+        "height": 360,
+        "brightness_pct": 59.8,
+        "sharpness_score": 34,
+        "dominant_colors": [
+          "#ececec",
+          "#e1efe5",
+          "#493f4d"
+        ]
+      },
+      "audio": {
+        "rms_db": "—",
+        "energy_label": "Extraído via Modo Rápido Nuvem"
+      },
+      "spoken_text": "",
+      "motion_summary": "Evolução gradual no local (variação 5.4%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, foco moderado e predominância de tons branco/claro."
+    }
+  ]
+}
