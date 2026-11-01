@@ -1,0 +1,145 @@
+{
+  "pack_id": "a34f0446c6",
+  "title": "Long Term Potentiation and Memory Formation, Animation",
+  "source_url": "https://www.youtube.com/watch?v=4Hm08ksPtMo",
+  "platform": "youtube",
+  "uploader": "Alila Medical Media",
+  "description": "Extraído via Modo Instantâneo Anti-Bloqueio (Quadros Oficiais + OCR + Visão + Transcrição).",
+  "duration_sec": 120.0,
+  "duration_human": "02:00",
+  "created_at": 1793559696.25,
+  "processing_time_sec": 26.84,
+  "vision_source": "OCR Local (Tesseract) + Análise Visual Nativa",
+  "video_specs": {
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
+    "video_codec": "yt-frames",
+    "audio_codec": "transcript"
+  },
+  "cover_image": "/packs/a34f0446c6/scenes/scene_01.jpg",
+  "storyboard_url": "/packs/a34f0446c6/storyboard.jpg",
+  "spectrogram_url": null,
+  "audio_url": null,
+  "reader_url": "/r/a34f0446c6",
+  "audio_telemetry": {
+    "available": false,
+    "profile_summary": "Modo Anti-Bloqueio Nuvem: Fala completa preservada via legenda oficial"
+  },
+  "transcript": {
+    "source": "Sem fala detectada / Apenas áudio instrumental ou ambiente",
+    "language": "—",
+    "segments": [],
+    "full_text": ""
+  },
+  "scenes": [
+    {
+      "index": 1,
+      "start_sec": 0.0,
+      "end_sec": 30.0,
+      "time_range": "00:00 – 00:30",
+      "filename": "scene_01.jpg",
+      "image_url": "/packs/a34f0446c6/scenes/scene_01.jpg",
+      "visual": {
+        "width": 1280,
+        "height": 720,
+        "brightness_pct": 35.5,
+        "sharpness_score": 100,
+        "dominant_colors": [
+          "#d0c1b5",
+          "#89636f",
+          "#211424"
+        ]
+      },
+      "audio": {
+        "rms_db": "—",
+        "energy_label": "Extraído via Modo Rápido Nuvem"
+      },
+      "spoken_text": "",
+      "motion_summary": "Cena inicial (referência 0%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, alta riqueza de detalhes/bordas nítidas e predominância de tons laranja/quente."
+    },
+    {
+      "index": 2,
+      "start_sec": 30.0,
+      "end_sec": 60.0,
+      "time_range": "00:30 – 01:00",
+      "filename": "scene_02.jpg",
+      "image_url": "/packs/a34f0446c6/scenes/scene_02.jpg",
+      "visual": {
+        "width": 480,
+        "height": 360,
+        "brightness_pct": 7.8,
+        "sharpness_score": 20,
+        "dominant_colors": [
+          "#624a44",
+          "#030001",
+          "#000000"
+        ]
+      },
+      "audio": {
+        "rms_db": "—",
+        "energy_label": "Extraído via Modo Rápido Nuvem"
+      },
+      "spoken_text": "",
+      "motion_summary": "Corte de cena / grande transição visual (32.6%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com ambiente escuro/noturno, imagem suave/fundo desfocado ou minimalista e predominância de tons vermelho/vinho e preto/escuro."
+    },
+    {
+      "index": 3,
+      "start_sec": 60.0,
+      "end_sec": 90.0,
+      "time_range": "01:00 – 01:30",
+      "filename": "scene_03.jpg",
+      "image_url": "/packs/a34f0446c6/scenes/scene_03.jpg",
+      "visual": {
+        "width": 480,
+        "height": 360,
+        "brightness_pct": 28.5,
+        "sharpness_score": 52,
+        "dominant_colors": [
+          "#a19682",
+          "#01000f",
+          "#000000"
+        ]
+      },
+      "audio": {
+        "rms_db": "—",
+        "energy_label": "Extraído via Modo Rápido Nuvem"
+      },
+      "spoken_text": "",
+      "motion_summary": "Variação visual de 24.6% • Deslocamento aparente: esquerda → direita / baixo → cima",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, foco moderado e predominância de tons laranja/quente e preto/escuro."
+    },
+    {
+      "index": 4,
+      "start_sec": 90.0,
+      "end_sec": 120.0,
+      "time_range": "01:30 – 02:00",
+      "filename": "scene_04.jpg",
+      "image_url": "/packs/a34f0446c6/scenes/scene_04.jpg",
+      "visual": {
+        "width": 480,
+        "height": 360,
+        "brightness_pct": 28.5,
+        "sharpness_score": 54,
+        "dominant_colors": [
+          "#a09682",
+          "#010011",
+          "#000000"
+        ]
+      },
+      "audio": {
+        "rms_db": "—",
+        "energy_label": "Extraído via Modo Rápido Nuvem"
+      },
+      "spoken_text": "",
+      "motion_summary": "Quase estático (variação 1.7%)",
+      "ocr_text": "",
+      "visual_description": "Quadro horizontal (widescreen) com iluminação equilibrada, foco moderado e predominância de tons laranja/quente e preto/escuro."
+    }
+  ]
+}
